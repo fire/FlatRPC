@@ -1,8 +1,6 @@
 # ![FlatRPC](https://raw.githubusercontent.com/GothAck/FlatRPC/master/docs/flatrpc1.png)
 
-(Fire's edition)
-
-## A C++ RPC library built upon FlatBuffers and ZeroMQ
+## A C++ RPC library built upon FlatBuffers and ZeroMQ (Fire's edition)
 
 ### Why?
 Because I needed an easy to use RPC library that was lightweight, simple, and didn't require building the world (shifty eyes at gRPC >_>).
