@@ -4,8 +4,9 @@
 
 - Install `flatc` from Flatbuffers
 - `git clone` this repo
-- `make all`
-- `sudo make install`
+- `mkdir build`
+- `cmake ..`
+- `make`
 
 2. Set up your project however you wish
 
